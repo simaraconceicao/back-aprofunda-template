@@ -2,7 +2,7 @@
 
 ![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
 <aside>
-⚠️ Este repositório é um template feito com alguns exercícios para treinar TDD com NodeJS e Jest.
+⚠️ Este repositório é um template feito com a base do projeto final feito com typscript e clean archi.
 </aside>
 
 <br>
